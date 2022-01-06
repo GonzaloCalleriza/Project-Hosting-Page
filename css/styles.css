@@ -96,7 +96,7 @@ Showcase (hero)
 
 .showcase .grid {
     overflow: visible;
-    grid-template-columns: 55% 45%;
+    grid-template-columns: 55% auto;
     gap: 30px;
 }
 
